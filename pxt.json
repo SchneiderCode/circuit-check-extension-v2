@@ -1,5 +1,5 @@
 {
-    "name": "Circuit Check Extension",
+    "name": "Circuit Check Extension V2",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -10,8 +10,7 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "custom.ts",
-        "fitness-banner.md"
+        "custom.ts"
     ],
     "testFiles": [
         "test.ts"
